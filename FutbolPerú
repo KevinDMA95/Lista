@@ -1,0 +1,9 @@
+#EXTM3U 
+#EXTINF: -1 tvg-name="LIGA PERU: GOL PERU SD" tvg-logo="http://boxdigital.xyz:8080/images/ec7d3a98d724d8d16ef7bcc90ef8d110.png" group-title="LIGAS DE FÚTBOL LATINOAMÉRICA", LIGA PERU: GOL PERU SD
+http://tv.deluxeprime.net:8080/Zona593/ep4MXKsVzy3U/181755
+#EXTINF: -1 tvg-name="LIGA PERU: LIGA 1" tvg-logo="http://boxdigital.xyz:8080/images/5b12cdb5892970acddccdab685860599.jpg" group-title="LIGAS DE FÚTBOL LATINOAMÉRICA", LIGA PERU: LIGA 1
+http://tv.deluxeprime.net:8080/Zona593/ep4MXKsVzy3U/162675
+#EXTINF: -1 tvg-name="LIGA PERU: LIGA 1 MAX" tvg-logo="http://boxdigital.xyz:8080/images/fa16a32fff5cfd974c0e0c860473a7f8.png" group-title="LIGAS DE FÚTBOL LATINOAMÉRICA", LIGA PERU: LIGA 1 MAX
+http://tv.deluxeprime.net:8080/Zona593/ep4MXKsVzy3U/162676
+#EXTINF: -1 tvg-name="LIGA PERU: MOVISTAR PLUS" tvg-logo="http://boxdigital.xyz:8080/images/3c789073ccc7eedf3971eda796730c8a.png" group-title="LIGAS DE FÚTBOL LATINOAMÉRICA", LIGA PERU: MOVISTAR PLUS
+http://tv.deluxeprime.net:8080/Zona593/ep4MXKsVzy3U/181756
